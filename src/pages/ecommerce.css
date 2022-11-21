@@ -1,0 +1,28 @@
+
+.div1{
+    width:55rem;
+}
+
+.img1{
+    width: 30rem;
+}
+
+.cards{
+    width: 205px;
+}
+
+.revenue{
+    width:880px;
+    margin-top: -30px;
+}
+
+.clr{
+    color: #00bdae;
+}
+
+@media (min-width:960px) {
+    .line{
+        /* margin-left: 180px; */
+        width:930px;
+    }  
+}
